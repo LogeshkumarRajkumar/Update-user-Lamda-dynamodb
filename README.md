@@ -1,4 +1,4 @@
-# Update-user-Lamda-dynamodb
+# Assignment Update-user-Lamda-dynamodb
 1: If the user data is existing username or email is given then the data is Updated.
 
 2: Else it will throw 'User not exist'.
